@@ -1,3 +1,3 @@
 # 2D-Placement
 
-Comming soon!
+Coming soon!
